@@ -10,7 +10,7 @@ The following prerequisites are needed for compilation
 ## Setting up
 1. Download code to your local machine by running `https://github.com/hshmatsahak/Shopify-Internship-Challenge/`
 2. `cd ./backend/` to move into proper directory
-3. Specify authentication used by Cloudinary and MongoDB.\
+3. Specify authentication used by Cloudinary and MongoDB:\
 Create a `.env` file in `Shopify_Challenge\backend\`  
 Store the following contents:\
 ```
