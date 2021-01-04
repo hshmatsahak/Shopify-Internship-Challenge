@@ -69,7 +69,8 @@ Login is successful only if password matches registration password
     - Currently user can upload and delete individual files, not bulk files
     - This is done for simplicity; but, we could change this by appropriate `multer` commands for upload and json body input for delete
 - Username and Password restrictions
-    - Currently, there is no restrictions that force a strong username or password, or to verify password on registration.
+    - Currently, there is little restrictions that force a strong username or password, or to verify password on registration.
+    - Only restriction is minimum password length = 3
     - To fix this, can add checks and restrictions on password length and whether user fields are empty
 
 
