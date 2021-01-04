@@ -25,7 +25,7 @@ ACCESS_TOKEN_SECRET=70d088310be28ac7db7b997b8f2f83ac8bb5c757d66823bf487be9a2cb4d
 
 ## Functionality
 Backend for secure photo storage by users  
-Users can:\
+Users can:
 - Upload photos one at a time
 - Delete photos one at a time
 - Get list of their photos; either all or those that fit a search query
