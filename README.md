@@ -12,7 +12,7 @@ The following prerequisites are needed for compilation
 2. `cd ./backend/` to move into proper directory
 3. Specify authentication used by Cloudinary and MongoDB:\
 Create a `.env` file in `Shopify_Challenge\backend\`  
-Store the following contents:\
+Store the following contents:
 ```
 ATLAS_URI=mongodb+srv://<username>:<password>@cluster0.edrpu.mongodb.net/<dbname>?retryWrites=true&w=majority
 CLOUDINARY_NAME=*********
