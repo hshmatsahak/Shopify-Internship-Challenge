@@ -24,7 +24,7 @@ ACCESS_TOKEN_SECRET=70d088310be28ac7db7b997b8f2f83ac8bb5c757d66823bf487be9a2cb4d
 4. `npm start` to run server
 
 ## Functionality
-Backend for secure photo storage for users\
+Backend for secure photo storage by users  
 Users can:\
 - Upload photos one at a time
 - Delete photos one at a time
