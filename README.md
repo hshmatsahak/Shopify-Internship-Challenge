@@ -46,6 +46,11 @@ name: String
 url: String
 date: Date
 ```
+- username is name of user logged in
+- name is name of photo, obtained from filename
+- url is URL provided by Cloudinary upon uploading 
+- date is `Date` object, passed as parameter(e.g. `2021-01-01T03:07:01.028Z`)
+
 ## Testing
 Testing is done using Postman.
 Logical Backend Flow is as follows:\
