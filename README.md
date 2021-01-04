@@ -39,6 +39,13 @@ password: String
 **Password ecryption** is performed using the bcrypt library when storing in database\
 Right now, date is a parameter(e.g. `2021-01-01T03:07:01.028Z`). However, it is very easy to change it to be the current date.
 
+2. Photo Schema
+```
+username: String
+name: String
+url: String
+date: Date
+```
 ## Testing
 Testing is done using Postman.
 Logical Backend Flow is as follows:\
